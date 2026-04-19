@@ -1,0 +1,6 @@
+Order ID,Order Date,Region,Category,Sub-Category,Sales,Profit,Customer Name
+CA-2019-1001,01-01-2019,West,Furniture,Chair,500,50,Alice
+CA-2019-1002,05-01-2019,East,Technology,Phone,1200,200,Bob
+CA-2019-1003,10-01-2019,Central,Office Supplies,Binder,300,30,Charlie
+CA-2019-1004,15-01-2019,South,Furniture,Table,700,-20,David
+CA-2019-1005,20-01-2019,West,Technology,Laptop,1500,300,Eva
