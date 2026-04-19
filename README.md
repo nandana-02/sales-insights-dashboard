@@ -25,6 +25,6 @@ This project presents an interactive dashboard built using Tableau to analyze sa
 
 Download the .twbx file and open in Tableau to explore the dashboard.
 
-## 👩‍💻 Author
+## Author
+Nandana
 
-Your Name
